@@ -1,8 +1,12 @@
 # Chuckyfix
 BOT PROTECT CREATOR & ADMIN & 5 BOT + 1 GHOST.
 ------
--
-
+GET TOKEN :
+------
+- `Google Chrome`
+- `http://www.tanaka.co.id:6969`
+- `Bot Alphat : https://github.com/Nadyatjia/AlphatTJ`
+\n
 Cara Install Bot Chucky :
 ------
 Di C9 :
