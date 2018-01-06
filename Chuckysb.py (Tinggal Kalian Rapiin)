@@ -2206,9 +2206,7 @@ def bot(op):
 		    print E
 
             elif msg.text in ["@bye","@Bye"]:
-		    nadya.leaveGroup(msg.to)
-              else:
-		          nadya.sendText(msg.to,"Bilang Dulu Sama Admin Ku")		    
+		    nadya.leaveGroup(msg.to)		    
 		    
 
             elif msg.text in ["Absen"]:
