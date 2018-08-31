@@ -18,8 +18,8 @@ class Channel:
     http_query_path = "/S4"
     channel_query_path = "/CH4"
 
-    UA = "Line/8.2.1"
-    LA = "CHROMEOS 8.2.1 NADYA-TJ x64"
+    UA = "Line/2.1.5"
+    LA = "CHROMEOS\t2.1.5\tNadya\tChrome_OS\t1"
 #    LA = "DESKTOPMAC 10.10.2-YOSEMITE-x64 MAC 4.5.1"
 #    LA = "CHROMEOS\t2.1.0\tChrome_OS\t1"
     
