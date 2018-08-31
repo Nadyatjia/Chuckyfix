@@ -24,7 +24,7 @@ class LINE:
     self.Talk = Talk()
     self._session = requests.session() 
 #    self._headers = {'X-Line-Application': 'DESKTOPMAC 10.10.2-YOSEMITE-x64    MAC 4.5.0'} 
-    self._headers = {'X-Line-Application': 'CHROMEOS 8.2.1 NADYA-TJ x64'}    
+    self._headers = {'X-Line-Application': 'CHROMEOS\t2.1.5\tNadya\tChrome_OS\t1'}    
     
 
   def login(self, mail=None, passwd=None, cert=None, token=None, qr=False, callback=None):
@@ -47,9 +47,9 @@ class LINE:
     self._headers = {
 #              'X-Line-Application': 'DESKTOPMAC 10.10.2-YOSEMITE-x64    MAC 4.5.0', 
 #              'X-Line-Application': 'DESKTOPMAC 10.10.2-YOSEMITE-x64 MAC 4.5.1', 
-              'X-Line-Application': 'CHROMEOS 8.2.1 NADYA-TJ x64', 
+              'X-Line-Application': 'CHROMEOS\t2.1.5\tNadya\tChrome_OS\t1', 
               'X-Line-Access': self.authToken, 
-              'User-Agent': 'Line/8.2.1'
+              'User-Agent': 'Line/2.1.5'
    }
    
     self.Poll = Poll(self.authToken)
