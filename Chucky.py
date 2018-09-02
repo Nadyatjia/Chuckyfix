@@ -12,37 +12,37 @@ import time,random,sys,json,codecs,threading,glob,urllib,urllib2,urllib3,re,ast,
 
 cl = LINETCR.LINE()
 #cl.login(qr=True)
-cl.login(token='TOKEN_KAMU_DISINI_BEIB')
+cl.login(token='Eq35rrQmxwcWsQm4urQe.5ZPaT2U6aucbSjxYvR87lG.83gc/wk5arc/CcDsSH5lCp3VMTneOmQeWXirRxadNNE=')
 cl.loginResult()
 print "Cl-Login Success\n"
 
 ki = LINETCR.LINE()
 #ki.login(qr=True)
-ki.login(token='TOKEN_KAMU_DISINI_BEIB')
+ki.login(token='EqTErDK0aMJRELvvIRY4.r9ImELjXxEqxTEYHFJ9KLa.9HsvUv0F72Vh/DxtpGluQx4bchF6YWWdaKAQs/BKVyU=')
 ki.loginResult()
 print "Ki-Login Success\n"
 
 kk = LINETCR.LINE()
 #kk.login(qr=True)
-kk.login(token='TOKEN_KAMU_DISINI_BEIB')
+kk.login(token='EqBoZzf5qp4cYT6cGAq7.homa96il8rgjq4XVf6kR5W.aVic/UYH1IUMSBQCd83+c1r0MneRk/2b2way1QyFTJ4=')
 kk.loginResult()
 print "Kk-Login Success\n"
 
 kc = LINETCR.LINE()
 #kc.login(qr=True)
-kc.login(token='TOKEN_KAMU_DISINI_BEIB')
+kc.login(token='EqwT4GbXN0Adda6EpGV8./OaOdfHUXBEkBEX6Dangoa.oTTdn6G8HsmYpsI+l+8fmPlcM2Qy4zauVZC/5bqPFTc=')
 kc.loginResult()
 print "Kc-Login Success\n"
 
 kr = LINETCR.LINE()
 #kr.login(qr=True)
-kr.login(token='TOKEN_KAMU_DISINI_BEIB')
+kr.login(token='Eq2GbXQ6eFtMBt7oOZZ9.674s9IYDOKwtIMFWvJoC/q.YfU9uidDX/MuY9F88TQYMOnU6U5sXcTh3MOgIGPgXKY=')
 kr.loginResult()
 print "Kr-Login Success\n"
 
 km = LINETCR.LINE()
 #km.login(qr=True)
-km.login(token='TOKEN_KAMU_DISINI_BEIB')
+km.login(token='EqEKr20877kryBBvZAG0.+xrcH6WCj57BvVAKDOeoGa.I0XEVp1yZ5Y70OFwfs+IbbWHKU18umrLYuMeEZzelTg=')
 km.loginResult()
 print "Km-Login Success\n\n=====[Sukses All Login]====="
 
